@@ -109,5 +109,7 @@ public class BlackJack
         h3 = getCard(r);        
 
         status(c, h1, h2, h3);
+        
+        //vai tomar no cu
     }
 }
